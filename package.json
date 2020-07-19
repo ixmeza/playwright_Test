@@ -8,9 +8,9 @@
     },
     "devDependencies": {
         "chai": "^4.2.0",
-        "playwright": "1.0.2"
+        "playwright": "^1.2.1"
     },
     "dependencies": {
-        "mocha": "^7.2.0"
+        "mocha": "^8.0.1"
     }
 }
